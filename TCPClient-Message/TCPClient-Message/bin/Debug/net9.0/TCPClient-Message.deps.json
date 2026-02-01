@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "TCPClient-Message/1.0.0": {
+        "runtime": {
+          "TCPClient-Message.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TCPClient-Message/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

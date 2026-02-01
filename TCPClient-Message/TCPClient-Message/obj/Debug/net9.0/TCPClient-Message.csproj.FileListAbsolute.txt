@@ -1,0 +1,14 @@
+C:\uni\prn222\presentation\TCPClient-Message\TCPClient-Message\bin\Debug\net9.0\TCPClient-Message.exe
+C:\uni\prn222\presentation\TCPClient-Message\TCPClient-Message\bin\Debug\net9.0\TCPClient-Message.deps.json
+C:\uni\prn222\presentation\TCPClient-Message\TCPClient-Message\bin\Debug\net9.0\TCPClient-Message.runtimeconfig.json
+C:\uni\prn222\presentation\TCPClient-Message\TCPClient-Message\bin\Debug\net9.0\TCPClient-Message.dll
+C:\uni\prn222\presentation\TCPClient-Message\TCPClient-Message\bin\Debug\net9.0\TCPClient-Message.pdb
+C:\uni\prn222\presentation\TCPClient-Message\TCPClient-Message\obj\Debug\net9.0\TCPClient-Message.GeneratedMSBuildEditorConfig.editorconfig
+C:\uni\prn222\presentation\TCPClient-Message\TCPClient-Message\obj\Debug\net9.0\TCPClient-Message.AssemblyInfoInputs.cache
+C:\uni\prn222\presentation\TCPClient-Message\TCPClient-Message\obj\Debug\net9.0\TCPClient-Message.AssemblyInfo.cs
+C:\uni\prn222\presentation\TCPClient-Message\TCPClient-Message\obj\Debug\net9.0\TCPClient-Message.csproj.CoreCompileInputs.cache
+C:\uni\prn222\presentation\TCPClient-Message\TCPClient-Message\obj\Debug\net9.0\TCPClient-Message.dll
+C:\uni\prn222\presentation\TCPClient-Message\TCPClient-Message\obj\Debug\net9.0\refint\TCPClient-Message.dll
+C:\uni\prn222\presentation\TCPClient-Message\TCPClient-Message\obj\Debug\net9.0\TCPClient-Message.pdb
+C:\uni\prn222\presentation\TCPClient-Message\TCPClient-Message\obj\Debug\net9.0\TCPClient-Message.genruntimeconfig.cache
+C:\uni\prn222\presentation\TCPClient-Message\TCPClient-Message\obj\Debug\net9.0\ref\TCPClient-Message.dll

@@ -1,0 +1,14 @@
+C:\uni\prn222\presentation\TCPClient-Reconnection\TCPClient-Reconnection\bin\Debug\net9.0\TCPClient-Reconnection.exe
+C:\uni\prn222\presentation\TCPClient-Reconnection\TCPClient-Reconnection\bin\Debug\net9.0\TCPClient-Reconnection.deps.json
+C:\uni\prn222\presentation\TCPClient-Reconnection\TCPClient-Reconnection\bin\Debug\net9.0\TCPClient-Reconnection.runtimeconfig.json
+C:\uni\prn222\presentation\TCPClient-Reconnection\TCPClient-Reconnection\bin\Debug\net9.0\TCPClient-Reconnection.dll
+C:\uni\prn222\presentation\TCPClient-Reconnection\TCPClient-Reconnection\bin\Debug\net9.0\TCPClient-Reconnection.pdb
+C:\uni\prn222\presentation\TCPClient-Reconnection\TCPClient-Reconnection\obj\Debug\net9.0\TCPClient-Reconnection.GeneratedMSBuildEditorConfig.editorconfig
+C:\uni\prn222\presentation\TCPClient-Reconnection\TCPClient-Reconnection\obj\Debug\net9.0\TCPClient-Reconnection.AssemblyInfoInputs.cache
+C:\uni\prn222\presentation\TCPClient-Reconnection\TCPClient-Reconnection\obj\Debug\net9.0\TCPClient-Reconnection.AssemblyInfo.cs
+C:\uni\prn222\presentation\TCPClient-Reconnection\TCPClient-Reconnection\obj\Debug\net9.0\TCPClient-Reconnection.csproj.CoreCompileInputs.cache
+C:\uni\prn222\presentation\TCPClient-Reconnection\TCPClient-Reconnection\obj\Debug\net9.0\TCPClient-Reconnection.dll
+C:\uni\prn222\presentation\TCPClient-Reconnection\TCPClient-Reconnection\obj\Debug\net9.0\refint\TCPClient-Reconnection.dll
+C:\uni\prn222\presentation\TCPClient-Reconnection\TCPClient-Reconnection\obj\Debug\net9.0\TCPClient-Reconnection.pdb
+C:\uni\prn222\presentation\TCPClient-Reconnection\TCPClient-Reconnection\obj\Debug\net9.0\TCPClient-Reconnection.genruntimeconfig.cache
+C:\uni\prn222\presentation\TCPClient-Reconnection\TCPClient-Reconnection\obj\Debug\net9.0\ref\TCPClient-Reconnection.dll

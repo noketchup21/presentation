@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\uni\\prn222\\presentation\\TCPClient-Message\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4999A256-7702-4592-AD29-EC86BFF46A0F}|..\\SignalR-Reconnection\\SignalRClient-Reconnection\\SignalRClient-Reconnection.csproj|c:\\uni\\prn222\\presentation\\signalr-reconnection\\signalrclient-reconnection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44206381-5CB6-49E2-950F-116DBCEA159E}|..\\SignalR-Message\\SignalRClient-Message\\SignalRClient-Message.csproj|c:\\uni\\prn222\\presentation\\signalr-message\\signalrclient-message\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C31ABB41-782B-4BFF-9858-4882CCD31AB5}|..\\TCPClient-Reconnection\\TCPClient-Reconnection\\TCPClient-Reconnection.csproj|c:\\uni\\prn222\\presentation\\tcpclient-reconnection\\tcpclient-reconnection\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C3835CC-2C5E-4ABE-8D14-CF072360C8FA}|TCPClient-Message\\TCPClient-Message.csproj|c:\\uni\\prn222\\presentation\\tcpclient-message\\tcpclient-message\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C3835CC-2C5E-4ABE-8D14-CF072360C8FA}|TCPClient-Message\\TCPClient-Message.csproj|solutionrelative:tcpclient-message\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:134:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:133:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\uni\\prn222\\presentation\\SignalR-Reconnection\\SignalRClient-Reconnection\\Program.cs",
+              "RelativeDocumentMoniker": "..\\SignalR-Reconnection\\SignalRClient-Reconnection\\Program.cs",
+              "ToolTip": "C:\\uni\\prn222\\presentation\\SignalR-Reconnection\\SignalRClient-Reconnection\\Program.cs",
+              "RelativeToolTip": "..\\SignalR-Reconnection\\SignalRClient-Reconnection\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T09:47:08.167Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\uni\\prn222\\presentation\\SignalR-Message\\SignalRClient-Message\\Program.cs",
+              "RelativeDocumentMoniker": "..\\SignalR-Message\\SignalRClient-Message\\Program.cs",
+              "ToolTip": "C:\\uni\\prn222\\presentation\\SignalR-Message\\SignalRClient-Message\\Program.cs",
+              "RelativeToolTip": "..\\SignalR-Message\\SignalRClient-Message\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T09:45:17.792Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\uni\\prn222\\presentation\\TCPClient-Reconnection\\TCPClient-Reconnection\\Program.cs",
+              "RelativeDocumentMoniker": "..\\TCPClient-Reconnection\\TCPClient-Reconnection\\Program.cs",
+              "ToolTip": "C:\\uni\\prn222\\presentation\\TCPClient-Reconnection\\TCPClient-Reconnection\\Program.cs",
+              "RelativeToolTip": "..\\TCPClient-Reconnection\\TCPClient-Reconnection\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T09:40:55.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\uni\\prn222\\presentation\\TCPClient-Message\\TCPClient-Message\\Program.cs",
+              "RelativeDocumentMoniker": "TCPClient-Message\\Program.cs",
+              "ToolTip": "C:\\uni\\prn222\\presentation\\TCPClient-Message\\TCPClient-Message\\Program.cs",
+              "RelativeToolTip": "TCPClient-Message\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T09:38:47.403Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

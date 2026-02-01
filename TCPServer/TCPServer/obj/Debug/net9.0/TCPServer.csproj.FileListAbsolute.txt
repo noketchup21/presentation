@@ -1,0 +1,14 @@
+C:\uni\prn222\presentation\TCPServer\TCPServer\bin\Debug\net9.0\TCPServer.exe
+C:\uni\prn222\presentation\TCPServer\TCPServer\bin\Debug\net9.0\TCPServer.deps.json
+C:\uni\prn222\presentation\TCPServer\TCPServer\bin\Debug\net9.0\TCPServer.runtimeconfig.json
+C:\uni\prn222\presentation\TCPServer\TCPServer\bin\Debug\net9.0\TCPServer.dll
+C:\uni\prn222\presentation\TCPServer\TCPServer\bin\Debug\net9.0\TCPServer.pdb
+C:\uni\prn222\presentation\TCPServer\TCPServer\obj\Debug\net9.0\TCPServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\uni\prn222\presentation\TCPServer\TCPServer\obj\Debug\net9.0\TCPServer.AssemblyInfoInputs.cache
+C:\uni\prn222\presentation\TCPServer\TCPServer\obj\Debug\net9.0\TCPServer.AssemblyInfo.cs
+C:\uni\prn222\presentation\TCPServer\TCPServer\obj\Debug\net9.0\TCPServer.csproj.CoreCompileInputs.cache
+C:\uni\prn222\presentation\TCPServer\TCPServer\obj\Debug\net9.0\TCPServer.dll
+C:\uni\prn222\presentation\TCPServer\TCPServer\obj\Debug\net9.0\refint\TCPServer.dll
+C:\uni\prn222\presentation\TCPServer\TCPServer\obj\Debug\net9.0\TCPServer.pdb
+C:\uni\prn222\presentation\TCPServer\TCPServer\obj\Debug\net9.0\TCPServer.genruntimeconfig.cache
+C:\uni\prn222\presentation\TCPServer\TCPServer\obj\Debug\net9.0\ref\TCPServer.dll
